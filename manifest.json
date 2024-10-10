@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-glsleditor",
+	"name": "GLSL Editor",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A plugin for Obsidian implementing GLSLEditor.",
+	"author": "h3R",
+	"authorUrl": "https://github.com/h3R",
+	"fundingUrl": "https://github.com/patriciogonzalezvivo/glslEditor",
+	"isDesktopOnly": false
+}
